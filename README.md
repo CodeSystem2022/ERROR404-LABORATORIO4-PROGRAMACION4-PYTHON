@@ -1,2 +1,73 @@
-# ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON
-En este repositorio el grupo ERROR-404 va a dejar los ejercicios de Python de la materia Laboratorio 4 (Programación 4))
+# ERROR 404 - LABORATORIO 4 (PROGRAMACION 4)
+
+En este repositorio el grupo <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-error-404-computer-science-flaticons-lineal-color-flat-icons.png" alt="external-error-404-computer-science-flaticons-lineal-color-flat-icons"/> ERROR-404 va a dejar los ejercicios de <img width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> **Python** de la materia **Laboratorio 4** (Programación 4)
+
+---
+
+## <img width="40" height="40" src="https://img.icons8.com/doodle/40/boy.png" alt="boy"/> <img width="40" height="40" src="https://img.icons8.com/doodle/40/girl.png" alt="girl"/> Integrantes de grupo
+
+- [Ahumada, Brian](https://github.com/brianahumada)                        
+
+- [Alancay, Abel Matias](https://github.com/matias9486)                
+
+- [Alsina, Maximiliano Gabriel](https://github.com/MalsinaG)   
+
+- [Berrini, Alejandro](https://github.com/AlejandroEB89)                 
+
+- [Calle, Sonia](https://github.com/SoCalle) 
+
+- [Chavez, Rodrigo](https://github.com/RodrigoChavez1986)                       
+
+- [Costa, Maria Eugenia](https://github.com/eugenia1984)              
+
+- [Navarro, Lucas](https://github.com/LucasNavarro01)                                            
+
+- [Sanguinetti Flores, Pablo](https://github.com/Pablo1653)
+
+---
+
+## :book: Clases
+
+- Clase 1 - Lunes 14 Agosto
+
+---
+
+## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodología de trabajo
+
+Utilizamos al metodología de trabajo **Scrum**, tenemos todas las tareas que el equipo va a realizar el en <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-7.png" alt="external-scrum-agile-flaticons-flat-flat-icons-7"/>**Backlog** (dentro de nuestro dashboard).
+
+En dicho dashboard tenemos los estados: 
+
+- **TODO**: para las tareas del Sprint activo
+
+- **DOING**: las tareas que fuimos tomando los integrantes del grupo en el Sprint
+
+- **CODE REVIEW**: una vez finalizada la tarea, creamos un MR(merge request), para que otro integrante del equipo denominado Scrum pueda hacer el code review y mergear a la rama **main**.
+
+- **DONE**: las tareas finalizadas
+
+## <img width="40" height="40" src="https://img.icons8.com/stickers/40/serial-tasks.png" alt="serial-tasks"/> ¿Cómo organizamos el workflow?
+
+- Tenemos la rama principal llamada **main**
+
+- Tenemos la rama secundaria, llamada **develop**, desde la cual vamos a ir sacando las **ramas de trabajo** para realizar la tarea asignada.
+
+- Tenemos la rama **Release** que se va a ir actualizando una vez al mes.
+
+- Usamos **tags** en las distintas versiones de las release
+  
+## ¿Cómo nombramos a las ramas ?
+
+En el Dashboard por cada tarea, la convertimos en **issue**, usamos ese número de issue, para poder traquear la misma.
+
+1. Nos situamos siempre en la rama **develop**, desde ahi creamos al nueva rama con el comando: `$ git checkout -b feat/#(nro.issue)-clase_nro-tema`, por ejemplo `git checkout -b feat/#1-clase1-proyecto-calculadora` este es un ejemplo para el issue #1 de la clase 1 donde vimos el proyecto calculadora.
+
+2. Siempre vamos a respetar la nomenclatura:
+
+- **feat**(si es una nueva funcionalidad) / **bug**(si hay que solucionar un error)
+
+- `#nro-de-issue` para poder relacionar la rama con el issue y la tarea asignada en el dashboar
+
+- `clase<nro-de-clase>-<tema-de-la-clase>` para tener el detalle de la clase y el tema visto
+
+---
