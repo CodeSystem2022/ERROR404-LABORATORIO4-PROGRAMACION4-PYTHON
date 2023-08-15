@@ -86,7 +86,11 @@ En dicho dashboard tenemos los estados:
 - Tenemos la rama **Release** que se va a ir actualizando una vez al mes.
 
 - Usamos **tags** en las distintas versiones de las release
-  
+
+- Por cada clase creamos una carpeta correspondiente, la nombramos **clase-nro**, ejemplo: **clase-1**
+
+---
+ 
 ## <img width="40" height="40" src="https://img.icons8.com/pulsar-color/40/merge-git.png" alt="merge-git"/> ¿Cómo nombramos a las ramas ?
 
 En el Dashboard por cada tarea, la convertimos en **issue**, usamos ese número de issue, para poder traquear la misma.
