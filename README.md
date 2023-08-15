@@ -30,6 +30,35 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Clase 1 - Lunes 14 Agosto
 
+- Clase 2 - Lunes 28 Agosto
+
+- Clase 3 - Lunes 4 Septiembre
+
+- Clase 4 - Lunes 11 Septiembre
+
+- Clase 5 - Lunes 18 Septiembre
+
+- Clase 6 - Lunes 25 Septiembre
+
+- Clase 7 - Lunes 2 de Octubre
+
+- Clase 8 - Lunes 9 de Octubre 
+
+---
+
+## Scrum y responsable de la tarea
+
+| CLASE | SCRUM | DESARROLLADOR/A |
+| ----- | ------ | -------------- |
+| 1 | Ahumada, Brian | Alancay, Abel Matias |
+| 2 | Alsina, Maximiliano Gabriel | Berrini, Alejandro |
+| 3 | Calle, Sonia | Chavez, Rodrigo |
+| 4 | Costa, Maria Eugenia | Navarro, Lucas |
+| 5 | Sanguinetti Flores, Pablo | Ahumada, Brian |
+| 6 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel |
+| 7 | Berrini, Alejandro | Calle, Sonia |
+| 8 | Chavez, Rodrigo | Costa, Maria Eugenia |
+
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodología de trabajo
@@ -46,7 +75,7 @@ En dicho dashboard tenemos los estados:
 
 - **DONE**: las tareas finalizadas
 
-## <img width="40" height="40" src="https://img.icons8.com/stickers/40/serial-tasks.png" alt="serial-tasks"/> ¿Cómo organizamos el workflow?
+## <img width="40" height="40" src="https://img.icons8.com/office/40/merge-git.png" alt="merge-git"/> ¿Cómo organizamos el workflow?
 
 - Tenemos la rama principal llamada **main**
 
@@ -56,7 +85,7 @@ En dicho dashboard tenemos los estados:
 
 - Usamos **tags** en las distintas versiones de las release
   
-## ¿Cómo nombramos a las ramas ?
+## <img width="40" height="40" src="https://img.icons8.com/pulsar-color/40/merge-git.png" alt="merge-git"/> ¿Cómo nombramos a las ramas ?
 
 En el Dashboard por cada tarea, la convertimos en **issue**, usamos ese número de issue, para poder traquear la misma.
 
