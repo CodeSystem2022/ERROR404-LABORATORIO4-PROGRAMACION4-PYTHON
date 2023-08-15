@@ -26,7 +26,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ---
 
-## :book: Clases
+## <img width="40" height="40" src="https://img.icons8.com/fluency/40/book.png" alt="book"/> Clases
 
 - Clase 1 - Lunes 14 Agosto
 
@@ -46,7 +46,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ---
 
-## Scrum y responsable de la tarea
+## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
 
 | CLASE | SCRUM | DESARROLLADOR/A |
 | ----- | ------ | -------------- |
