@@ -81,13 +81,21 @@ En dicho dashboard tenemos los estados:
 
 - Tenemos la rama principal llamada **main**
 
-- Tenemos la rama secundaria, llamada **develop**, desde la cual vamos a ir sacando las **ramas de trabajo** para realizar la tarea asignada.
+- Tenemos la rama secundaria, llamada **release/nro-de-version**, desde la cual vamos a ir subiendo las clases. Como vamos a subir una clase por persona, solo trabajaremos con la rama release. Esta rama se ira incrementando el numero de version a medida que vayamos completando las clases
 
-- Tenemos la rama **Release** que se va a ir actualizando una vez al mes.
-
-- Usamos **tags** en las distintas versiones de las release
+- Usamos **tags** en las distintas versiones de las release -> [Aca se puede consultar la documentación de Atlassian sobra las **tags**](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-tag)
 
 - Por cada clase creamos una carpeta correspondiente, la nombramos **clase-nro**, ejemplo: **clase-1**
+
+
+Dejamos un grafico de como va a ser el workflow de las ramas:
+
+```
+ X ------> main--------------------X
+           |                       ^
+           |                       | tag: v.1.0.0
+           |--- release/1.0.0------|
+```
 
 ---
  
