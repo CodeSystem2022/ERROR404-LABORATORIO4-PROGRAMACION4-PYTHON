@@ -50,7 +50,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | --------- |
-| 1 | Ahumada, Brian | Alancay, Abel Matias | <img width="64" height="64" src="https://img.icons8.com/flat-round/64/checkmark.png" alt="checkmark"/> |
+| 1 | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 2 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
 | 3 | Calle, Sonia | Chavez, Rodrigo | |
 | 4 | Costa, Maria Eugenia | Navarro, Lucas | |
