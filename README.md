@@ -28,9 +28,9 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ## <img width="40" height="40" src="https://img.icons8.com/fluency/40/book.png" alt="book"/> Clases
 
-- [Clase 1 - Lunes 14 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_01): 
+- [Clase 1 - Lunes 14 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_01): LAboratorio con Pyton
 
-- Clase 2 - Lunes 28 Agosto
+- Clase 2 - Lunes 28 Agosto: Profundizando en Python con Sistemas Numéricos -> Parte 1
 
 - Clase 3 - Lunes 4 Septiembre
 
@@ -48,16 +48,16 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 ## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons.png" alt="external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons"/> Scrum y responsable de la tarea
 
-| CLASE | SCRUM | DESARROLLADOR/A |
-| ----- | ------ | -------------- |
-| 1 | Ahumada, Brian | Alancay, Abel Matias |
-| 2 | Alsina, Maximiliano Gabriel | Berrini, Alejandro |
-| 3 | Calle, Sonia | Chavez, Rodrigo |
-| 4 | Costa, Maria Eugenia | Navarro, Lucas |
-| 5 | Sanguinetti Flores, Pablo | Ahumada, Brian |
-| 6 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel |
-| 7 | Berrini, Alejandro | Calle, Sonia |
-| 8 | Chavez, Rodrigo | Costa, Maria Eugenia |
+| CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
+| ----- | ------ | -------------- | --------- |
+| 1 | Ahumada, Brian | Alancay, Abel Matias | <img width="64" height="64" src="https://img.icons8.com/flat-round/64/checkmark.png" alt="checkmark"/> |
+| 2 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | |
+| 3 | Calle, Sonia | Chavez, Rodrigo | |
+| 4 | Costa, Maria Eugenia | Navarro, Lucas | |
+| 5 | Sanguinetti Flores, Pablo | Ahumada, Brian | |
+| 6 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | |
+| 7 | Berrini, Alejandro | Calle, Sonia | |
+| 8 | Chavez, Rodrigo | Costa, Maria Eugenia | |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
 
