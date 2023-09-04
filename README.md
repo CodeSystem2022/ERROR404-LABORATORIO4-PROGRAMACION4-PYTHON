@@ -30,7 +30,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - [Clase 1 - Lunes 14 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_01): Laboratorio con Pyton
 
-- Clase 2 - Lunes 28 Agosto: Profundizando en Python con Sistemas Numéricos -> Parte 1
+- [Clase 2 - Lunes 28 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_02): Profundizando en Python con Sistemas Numéricos -> Parte 1
 
 - Clase 3 - Lunes 4 Septiembre
 
