@@ -58,6 +58,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 6 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 25 SEP |
 | 7 | Berrini, Alejandro | Calle, Sonia | 2 OCT |
 | 8 | Chavez, Rodrigo | Costa, Maria Eugenia | 9 OCT |
+| 9 | Navarro, Lucas | Sanguinetti Flores, Pablo | 16 OCT |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
 
