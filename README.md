@@ -65,7 +65,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 7 - 2 OCT | Berrini, Alejandro | Calle, Sonia | x |
 | 8 - 9 OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
 | 9 - 23 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
-| 10 - 30 OCT | Ahumada, Brian | |Alancay, Abel Matias  x |
+| 10 - 30 OCT | Ahumada, Brian | Alancay, Abel Matias  | x |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
 
