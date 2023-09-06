@@ -50,15 +50,15 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | --------- |
-| 1 | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> 14 AUG |
-| 2 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> 28 AUG  |
-| 3 | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> 4 SEP |
-| 4 | Costa, Maria Eugenia | Navarro, Lucas | 11 SEP |
-| 5 | Sanguinetti Flores, Pablo | Ahumada, Brian | 18 SEP |
-| 6 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 25 SEP |
-| 7 | Berrini, Alejandro | Calle, Sonia | 2 OCT |
-| 8 | Chavez, Rodrigo | Costa, Maria Eugenia | 9 OCT |
-| 9 | Navarro, Lucas | Sanguinetti Flores, Pablo | 16 OCT |
+| 1 - 12AUG | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 2 - 28AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 3 - 4SEP | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 4 - 11SEP| Costa, Maria Eugenia | Navarro, Lucas | x |
+| 5 - 18SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 6 - 25SEP| Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 7 - 2OCT| Berrini, Alejandro | Calle, Sonia | x |
+| 8 - 9OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 9 - 16 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
 
