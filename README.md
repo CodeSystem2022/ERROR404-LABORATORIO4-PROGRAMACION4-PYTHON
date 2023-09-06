@@ -32,7 +32,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - [Clase 2 - Lunes 28 Agosto](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_02): Profundizando en Python con Sistemas Numéricos -> Parte 1
 
-- Clase 3 - Lunes 4 Septiembre: Profundizando con Sistemas Numéricos y String-> Parte 2
+- [Clase 3 - Lunes 4 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_03): Profundizando con Sistemas Numéricos y String-> Parte 2
 
 - Clase 4 - Lunes 11 Septiembre
 
@@ -52,7 +52,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | ----- | ------ | -------------- | --------- |
 | 1 | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> 14 AUG |
 | 2 | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> 28 AUG  |
-| 3 | Calle, Sonia | Chavez, Rodrigo | 4 SEP |
+| 3 | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> 4 SEP |
 | 4 | Costa, Maria Eugenia | Navarro, Lucas | 11 SEP |
 | 5 | Sanguinetti Flores, Pablo | Ahumada, Brian | 18 SEP |
 | 6 | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | 25 SEP |
