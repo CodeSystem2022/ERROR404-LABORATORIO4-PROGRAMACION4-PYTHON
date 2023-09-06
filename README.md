@@ -42,7 +42,13 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Clase 7 - Lunes 2 de Octubre
 
-- Clase 8 - Lunes 9 de Octubre 
+- Clase 8 - Lunes 9 de Octubre
+
+- 16 de Octubre feriado puente
+  
+- Clase 9 - Lunes 23 de Octubre
+  
+- Clase 10 - Lunes 30 Octubre
 
 ---
 
@@ -50,15 +56,16 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 | CLASE | SCRUM | DESARROLLADOR/A | FINALIZADO |
 | ----- | ------ | -------------- | --------- |
-| 1 - 12AUG | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 2 - 28AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 3 - 4SEP | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 4 - 11SEP| Costa, Maria Eugenia | Navarro, Lucas | x |
-| 5 - 18SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
-| 6 - 25SEP| Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
-| 7 - 2OCT| Berrini, Alejandro | Calle, Sonia | x |
-| 8 - 9OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
-| 9 - 16 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
+| 1 - 12 AUG | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 2 - 28 AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 3 - 4 SEP | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 4 - 11 SEP | Costa, Maria Eugenia | Navarro, Lucas | x |
+| 5 - 18 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 6 - 25 SEP | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 7 - 2 OCT | Berrini, Alejandro | Calle, Sonia | x |
+| 8 - 9 OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 9 - 23 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
+| 10 - 30 OCT | Ahumada, Brian | |Alancay, Abel Matias  x |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
 
