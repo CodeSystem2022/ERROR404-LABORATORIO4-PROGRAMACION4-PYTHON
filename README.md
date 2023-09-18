@@ -36,7 +36,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Lunes 11 Septiembre -> Hacemos el cuestionario de Diseño, no hay nada de Python
 
-- Clase 4 - Lunes 18 Septiembre
+- Clase 4 - Lunes 18 Septiembre -> Profundizando en String
 
 - Clase 5 - Lunes 25 Septiembre
 
