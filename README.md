@@ -34,21 +34,21 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - [Clase 3 - Lunes 4 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_03): Profundizando con Sistemas Numéricos y String-> Parte 2
 
-- Lunes 11 Septiembre -> Hacemos el cuestionario de Diseño, no hay nada de Python
+- Clase 4 - Lunes 11 Septiembre -> Hacemos el cuestionario de Diseño, no hay nada de Python
 
-- Clase 4 - Lunes 18 Septiembre -> Profundizando en String
+- [Clase 5 - Lunes 18 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_05) -> Profundizando en String
 
-- Clase 5 - Lunes 25 Septiembre
+- Clase 6 - Lunes 25 Septiembre
 
-- Clase 6 - Lunes 2 de Octubre
+- Clase 7 - Lunes 2 de Octubre
 
-- Clase 7 - Lunes 9 de Octubre
+- Clase 8 - Lunes 9 de Octubre
 
 - Lunes 16 de Octubre -> Feriado puente
   
-- Clase 8 - Lunes 23 de Octubre
+- Clase 9 - Lunes 23 de Octubre
   
-- Clase 9 - Lunes 30 Octubre
+- Clase 10 - Lunes 30 Octubre
 
 ---
 
@@ -59,12 +59,13 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 1 - 12 AUG | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 2 - 28 AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 3 - 4 SEP | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 4 - 18 SEP | Costa, Maria Eugenia | Navarro, Lucas | x |
-| 5 - 25 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
-| 6 - 2 OCT  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
-| 7 - 9 OCT | Berrini, Alejandro | Calle, Sonia | x |
-| 8 - 23 OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
-| 9 - 30 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
+| 4 - 11 SEP | tuvimos el examen | de diseño |
+| 5 - 18 SEP | Costa, Maria Eugenia | Navarro, Lucas |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
+| 6 - 25 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 7 - 2 OCT  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
+| 8 - 9 OCT | Berrini, Alejandro | Calle, Sonia | x |
+| 9 - 23 OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
+| 10 - 30 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
 
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
