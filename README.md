@@ -59,7 +59,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 1 - 12 AUG | Ahumada, Brian | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 2 - 28 AUG | Alsina, Maximiliano Gabriel | Berrini, Alejandro | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 3 - 4 SEP | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 4 - 11 SEP | tuvimos el examen | de diseño |
+| 4 - 11 SEP | tuvimos el examen | de diseño | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 5 - 18 SEP | Costa, Maria Eugenia | Navarro, Lucas |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 6 - 25 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
 | 7 - 2 OCT  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
