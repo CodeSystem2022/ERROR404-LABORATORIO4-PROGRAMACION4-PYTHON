@@ -38,7 +38,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - [Clase 5 - Lunes 18 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_05) -> Profundizando en String
 
-- Clase 6 - Lunes 25 Septiembre
+- Clase 6 - Lunes 25 Septiembre -> Profundizando en String -> Parte 2
 
 - Clase 7 - Lunes 2 de Octubre
 
