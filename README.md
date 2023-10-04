@@ -38,7 +38,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - [Clase 5 - Lunes 18 Septiembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_05) -> Profundizando en String
 
-- Clase 6 - Lunes 25 Septiembre -> Profundizando en String -> Parte 2
+- {Clase 6 - Lunes 25 Septiembre}(https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_06/clase_1) -> Profundizando en String -> Parte 2
 
 - Clase 7 - Lunes 2 de Octubre
 
@@ -61,7 +61,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 3 - 4 SEP | Calle, Sonia | Chavez, Rodrigo | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
 | 4 - 11 SEP | tuvimos el examen | de diseño | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 5 - 18 SEP | Costa, Maria Eugenia | Navarro, Lucas |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>  |
-| 6 - 25 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | x |
+| 6 - 25 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 7 - 2 OCT  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | x |
 | 8 - 9 OCT | Berrini, Alejandro | Calle, Sonia | x |
 | 9 - 23 OCT | Chavez, Rodrigo | Costa, Maria Eugenia | x |
