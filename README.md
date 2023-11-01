@@ -64,7 +64,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 6 - 25 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 7 - 2 OCT  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 8 - 9 OCT | Berrini, Alejandro | Calle, Sonia | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
-| 9 - 23 OCT | Chavez, Rodrigo | Alancay, Abel Matias | x |
+| 9 - 23 OCT | Chavez, Rodrigo | Alancay, Abel Matias |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
 | 10 - 30 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
 
 
