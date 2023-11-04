@@ -65,7 +65,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 7 - 2 OCT  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 8 - 9 OCT | Berrini, Alejandro | Calle, Sonia | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
 | 9 - 23 OCT | Chavez, Rodrigo | Alancay, Abel Matias |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
-| 10 - 30 OCT | Navarro, Lucas | Sanguinetti Flores, Pablo | x |
+| 10 - 30 OCT | Sanguinetti Flores, Pablo | Alancay, Abel Matias | x |
 
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
