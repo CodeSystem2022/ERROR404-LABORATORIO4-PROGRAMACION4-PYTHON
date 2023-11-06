@@ -46,7 +46,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Lunes 16 de Octubre -> Feriado puente
   
-- [Clase 9 - Lunes 23 de Octubre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_09)
+- [Clase 9 - Lunes 23 de Octubre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_09) -> Proyecto avanzado, parte 2
   
 - Clase 10 - Lunes 30 Octubre
 
