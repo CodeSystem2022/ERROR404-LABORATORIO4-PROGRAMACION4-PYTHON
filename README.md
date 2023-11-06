@@ -46,9 +46,11 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 
 - Lunes 16 de Octubre -> Feriado puente
   
-- Clase 9 - Lunes 23 de Octubre
+- [Clase 9 - Lunes 23 de Octubre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_09)
   
 - Clase 10 - Lunes 30 Octubre
+
+- Clase 11 - Lunes 6 de Noviembre 
 
 ---
 
@@ -66,6 +68,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 8 - 9 OCT | Berrini, Alejandro | Calle, Sonia | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
 | 9 - 23 OCT | Chavez, Rodrigo | Alancay, Abel Matias |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
 | 10 - 30 OCT | Sanguinetti Flores, Pablo | Alancay, Abel Matias | x |
+| 11 - 6 NOV | | |
 
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
