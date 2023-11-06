@@ -48,7 +48,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
   
 - [Clase 9 - Lunes 23 de Octubre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_09) -> Proyecto avanzado, parte 2
   
-- Clase 10 - Lunes 30 Octubre
+- [Clase 10 - Lunes 30 Octubre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_10) -> Proyecto avanzado parte 3
 
 - Clase 11 - Lunes 6 de Noviembre 
 
@@ -66,8 +66,8 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 6 - 25 SEP | Sanguinetti Flores, Pablo | Ahumada, Brian | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 7 - 2 OCT  | Alancay, Abel Matias | Alsina, Maximiliano Gabriel | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 8 - 9 OCT | Berrini, Alejandro | Calle, Sonia | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
-| 9 - 23 OCT | Chavez, Rodrigo | Alancay, Abel Matias |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
-| 10 - 30 OCT | Sanguinetti Flores, Pablo | Alancay, Abel Matias | x |
+| 9 - 23 OCT | Chavez, Rodrigo | Alancay, Abel Matias |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
+| 10 - 30 OCT | Sanguinetti Flores, Pablo | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 11 - 6 NOV | | |
 
 
