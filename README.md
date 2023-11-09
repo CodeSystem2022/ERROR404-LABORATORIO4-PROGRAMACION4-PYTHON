@@ -50,7 +50,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
   
 - [Clase 10 - Lunes 30 Octubre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_10) -> Proyecto avanzado parte 3
 
-- Clase 11 - Lunes 6 de Noviembre 
+- [Clase 11 - Lunes 6 de Noviembre](https://github.com/CodeSystem2022/ERROR404-LABORATORIO4-PROGRAMACION4-PYTHON/tree/main/Clase_11) -> Proyecto avanzado parte 4
 
 ---
 
