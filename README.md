@@ -68,8 +68,7 @@ En este repositorio el grupo <img width="40" height="40" src="https://img.icons8
 | 8 - 9 OCT | Berrini, Alejandro | Calle, Sonia | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/>|
 | 9 - 23 OCT | Chavez, Rodrigo | Alancay, Abel Matias |  <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
 | 10 - 30 OCT | Sanguinetti Flores, Pablo | Alancay, Abel Matias | <img width="30" height="30" src="https://img.icons8.com/flat-round/30/checkmark.png" alt="checkmark"/> |
-| 11 - 6 NOV | Costa Maria Eugenia | Alancay Matias | 
-<img width="20" height="20" src="https://img.icons8.com/fluency/20/checked.png" alt="checked"/> |
+| 11 - 6 NOV | Costa Maria Eugenia | Alancay Matias | <img width="20" height="20" src="https://img.icons8.com/fluency/20/checked.png" alt="checked"/> |
 
 -> [Link al Dashboard](https://github.com/orgs/CodeSystem2022/projects/1145)
 
